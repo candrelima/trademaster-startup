@@ -1,0 +1,4 @@
+
+executar PowerShell como administrador:
+
+Set-ExecutionPolicy Unrestricted -Force
